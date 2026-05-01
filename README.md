@@ -1,4 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="50px"> Hi, I'm Ruqia Kassaw!
+<h1 style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="50px"> 
+  Hi, I'm Ruqia Kassaw!
+</h1>
 
 <p align="left">
   <a href="https://github.com/RuqiaKassaw1798">
