@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&pause=1000&color=FFA500&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Ruqia+Kassaw!" alt="Hi, I'm Ruqia Kassaw!" />
-</p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="60px"> Hi, I'm Ruqia Kassaw!
 
 <p align="left">
   <a href="https://github.com/RuqiaKassaw1798">
