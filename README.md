@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/RuqiaKassaw1798">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA500&width=750&height=100&lines=Electrical+Engineering+@ASTU;Zindi+Data+Scientist;Solidity+Developer;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA500&width=750&height=100&lines=Electrical+Engineering+@ASTU;Data+Science+Enthusiast;Blockchain+Developer;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
