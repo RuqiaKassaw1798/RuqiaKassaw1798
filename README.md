@@ -1,7 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hi, I'm Ruqia Kassaw!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFA500&center=true&vCenter=true&width=800&height=100&lines=Electrical+Engineer;Data+Scientist;Blockchain+Developer;Problem+Solver" alt="Typing SVG" />
+<p align="left">
+  <a href="https://github.com/RuqiaKassaw1798">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA500&width=750&height=100&lines=Electrical+Engineering+@ASTU;Zindi+Data+Scientist;Solidity+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
