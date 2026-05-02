@@ -20,10 +20,10 @@
 <p align="center">
   <a href="mailto:ruqiakassaw48@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ruqia1798"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://twitter.com/RuqiaKassaw1798"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://t.me/Ruqia_1798"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/YOUR_CF_USERNAME"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Ruqia48"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
@@ -71,14 +71,14 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuqiaKassaw1798&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA500&icon_color=FFA500&text_color=ffffff&count_private=true" height="165"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=RuqiaKassaw1798&cc=0d1117&tc=FFA500&ic=FFA500&bc=0d1117" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuqiaKassaw1798&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA500&text_color=ffffff" height="165"/>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuqiaKassaw1798&label=Profile%20Views&color=FFA500&style=for-the-badge" />
+</p>
 ---
 
 ## 🔥 Streak
