@@ -4,11 +4,6 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="40px"/> Hi👋, I'm Ruqia!
 </h1>
 
-<!-- Dynamic greeting -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F9A825&center=true&vCenter=true&width=600&lines=🌅+Good+morning%2C+welcome+to+my+profile!;🌤️+Good+afternoon%2C+glad+you're+here!;🌙+Good+evening%2C+thanks+for+stopping+by!" alt="Greeting" />
-</p>
-
 <!-- Typing roles -->
 <p align="center">
   <a href="https://github.com/RuqiaKassaw1798">
