@@ -92,8 +92,6 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 
 ---
 
-## 📈 Contribution Graph
-
 ## 📈 My Contribution Graph
 
 <p align="center">
