@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="60px"> Hi, I'm Ruqia Kassaw!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="30px"> Hi, I'm Ruqia!
 
 <p align="left">
   <a href="https://github.com/RuqiaKassaw1798">
