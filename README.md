@@ -1,13 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ruqia%20Kassaw&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Data%20Scientist%20%7C%20Blockchain%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="40px"/> Hi, I'm Ruqia!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="40px"/> Hi👋, I'm Ruqia!
 </h1>
 
-<!-- Dynamic greeting -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F9A825&center=true&vCenter=true&width=600&lines=🌅+Good+morning%2C+welcome+to+my+profile!;🌤️+Good+afternoon%2C+glad+you're+here!;🌙+Good+evening%2C+thanks+for+stopping+by!" alt="Greeting" />
-</p>
+
 
 <!-- Typing roles -->
 <p align="center">
@@ -74,12 +71,11 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=RuqiaKassaw1798&cc=0d1117&tc=FFA500&ic=FFA500&bc=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuqiaKassaw1798&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA500&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuqiaKassaw1798&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA500&text_color=ffffff&hide=jupyter%20notebook" height="165"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RuqiaKassaw1798&label=Profile%20Views&color=FFA500&style=for-the-badge" />
 </p>
----
 
 ## 🔥 Streak
 
