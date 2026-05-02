@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/RuqiaKassaw1798">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=750&height=100&lines=Electrical+Engineering+@ASTU;Data+Science+Enthusiast;Blockchain+Developer;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA500&width=750&height=100&lines=Electrical+Engineering+@ASTU;Data+Science+Enthusiast;Blockchain+Developer;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,6 @@ Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" />
   <img src="https://img.shields.io/badge/XGBoost-2C2C2C?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
