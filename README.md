@@ -93,10 +93,11 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuqiaKassaw1798&bg_color=0d1117&color=FFA500&line=ff8c00&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuqiaKassaw1798&bg_color=0d1117&color=FFA500&line=ff8c00&point=ffffff&area=true&hide_border=true&title=My%40Contribution%20Graph" width="200%"/>
+</p>
 ---
 
 <p align="center">
