@@ -70,7 +70,11 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=RuqiaKassaw1798&cc=0d1117&tc=FFA500&ic=FFA500&bc=0d1117" height="180"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=RuqiaKassaw1798&cc=0d1117&tc=FFA500&ic=FFA500&bc=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuqiaKassaw1798&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFA500&text_color=ffffff&hide=jupyter%20notebook" height="165"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuqiaKassaw1798&label=Profile%20Views&color=FFA500&style=for-the-badge" />
 </p>
 ## 🔥 Streak
 
