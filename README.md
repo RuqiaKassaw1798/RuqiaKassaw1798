@@ -72,19 +72,6 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=RuqiaKassaw1798&cc=0d1117&tc=FFA500&ic=FFA500&bc=0d1117" height="180"/>
 </p>
-Most Used Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuqiaKassaw1798&label=Profile%20Views&color=FFA500&style=for-the-badge" />
-</p>
-
 ## 🔥 Streak
 
 <p align="center">
