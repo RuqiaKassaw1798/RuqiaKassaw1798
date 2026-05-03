@@ -76,7 +76,8 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RuqiaKassaw1798&label=Profile%20Views&color=FFA500&style=for-the-badge" />
 </p>
-## 🔥 Streak
+
+ ## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RuqiaKassaw1798&theme=tokyonight&hide_border=true&background=0d1117&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" width="500"/>
