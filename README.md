@@ -9,7 +9,7 @@
 <!-- Typing roles -->
 <p align="center">
   <a href="https://github.com/RuqiaKassaw1798">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=750&height=100&lines=Electrical+Engineering+Student+%40ASTU;Data+Science+Enthusiast;Blockchain+Developer;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=750&height=100&lines=Electrical+Engineering+Student+%40ASTU;Data+Science+Enthusiast;Junior+Blockchain+Developer;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
