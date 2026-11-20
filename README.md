@@ -7,7 +7,7 @@
 <!-- Typing roles -->
 <p align="center">
   <a href="https://github.com/RuqiaKassaw1798">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=750&height=100&lines=Electrical+Engineering+Student+%40ASTU;Data+Science+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=750&height=100&lines=Electrical+Engineering+Student+%40ASTU;Learning+Data+Science;Learning+Web+Development;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,6 +29,7 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 
 - 🎓 Currently studying at **ASTU**
 - ⚡ Technical focus: **Control Systems · Machine Learning**
+- 🌐 Learning web development, starting with **HTML** and **CSS**
 - 🏆 Solving algorithmic challenges on **Codeforces**
 - 🤝 I enjoy collaborating on impactful tech projects and data-driven competitions
 - 🌍 Based in **Ethiopia** 🇪🇹
