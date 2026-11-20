@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ruqia%20Kassaw&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineering%20Student%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ruqia%20Kassaw&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineering%20Student%20%7C%20Data%20Science%20Enthusiast%20%7C%20Junior%20Blockchain%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand.gif" width="40px"/> Hi👋, I'm Ruqia!
@@ -7,7 +7,7 @@
 <!-- Typing roles -->
 <p align="center">
   <a href="https://github.com/RuqiaKassaw1798">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=750&height=100&lines=Electrical+Engineering+Student+%40ASTU;Learning+Data+Science;Learning+Web+Development;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=750&height=100&lines=Electrical+Engineering+Student+%40ASTU;Data+Science+Enthusiast;Junior+Blockchain+Developer;Exploring+Web+Development;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,17 +25,48 @@
 
 ## 💫 About Me
 
-I'm an **Electrical Power and Control Engineering** student at **Adama Science and Technology University (ASTU)**. I'm passionate about bridging the gap between hardware and software, whether it's analyzing circuits or training machine learning models.
+I'm an **Electrical Power and Control Engineering** student at **Adama Science and Technology University (ASTU)**. I'm passionate about bridging the gap between hardware and software — whether it's analyzing circuits, training machine learning models, or writing smart contracts on the blockchain.
 
 - 🎓 Currently studying at **ASTU**
-- ⚡ Technical focus: **Control Systems · Machine Learning**
-- 🌐 Learning web development, starting with **HTML** and **CSS**
-- 🏆 Solving algorithmic challenges on **Codeforces**
+- ⚡ Technical focus: **Control Systems · Machine Learning · Smart Contracts**
+- 🌐 Exploring web development, starting with **HTML** and **CSS**
+- 🏆 Active on **Codeforces**, solving algorithmic challenges
 - 🤝 I enjoy collaborating on impactful tech projects and data-driven competitions
 - 🌍 Based in **Ethiopia** 🇪🇹
 
 ---
 
+## 🛠️ My Toolkit
+
+**Machine Learning & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" />
+  <img src="https://img.shields.io/badge/XGBoost-2C2C2C?style=for-the-badge&logo=xgboost&logoColor=white" />
+</p>
+
+**Web & Blockchain**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=RuqiaKassaw1798&cc=0d1117&tc=FFA500&ic=FFA500&bc=0d1117" height="165"/>
