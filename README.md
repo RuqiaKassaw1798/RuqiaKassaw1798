@@ -29,7 +29,7 @@ I'm an **Electrical Power and Control Engineering** student at **Adama Science a
 
 - 🎓 Currently studying at **ASTU**
 - ⚡ Technical focus: **Control Systems · Machine Learning**
-- 🌐 Exploring web development, starting with **HTML** and **CSS**
+- 🌐 Exploring web development
 - 🏆 Active on **Codeforces**, solving algorithmic challenges
 - 🤝 I enjoy collaborating on impactful tech projects and data-driven competitions
 - 🌍 Based in **Ethiopia** 🇪🇹
